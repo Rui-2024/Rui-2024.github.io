@@ -1,0 +1,21 @@
+---
+title: "Rui Xu"
+subtitle: "Researcher"
+image: images/profile.png
+about:
+  template: jolla  # Different templates: jolla, trestles, solana, marquee, or broadside
+  image-shape: round
+  links:
+    - icon: envelope-at-fill  # https://icons.getbootstrap.com/?q=book
+      text: e-mail
+      href: mailto:xur25@cardiff.ac.uk
+    - icon: github
+      text: Github
+      href: https://github.com/Rui-2024
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rui-xu-1bb216275/
+---
+
+Rui Xu is a second-year PhD student in operations management with a strong passion for data science and intelligent decision-making in business and healthcare. He has authored several papers in SCI/SSCI-indexed journals on these topics. Additionally, he serves as a reviewer for the International Journal of Health Policy and Management (SCI & SSCI Q1).
+
