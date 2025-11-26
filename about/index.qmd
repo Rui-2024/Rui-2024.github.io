@@ -2,18 +2,17 @@
 title: "Who am I"
 ---
 
-  I am **Rui Xu**, a PhD candidate at **Cardiff Business School** (Data Lab for Social Good). My research sits at the intersection of machine learning, time‑series forecasting and healthcare supply chains. I design methods to estimate true demand under censored observations (stockouts & service interruptions) and translate those estimates into inventory policies that improve availability of essential health commodities.
+  I am **Rui Xu**, a PhD candidate at **Cardiff Business School** (Data Lab for Social Good). My research focuses on integrating large language models (LLMs) into online health services to create a more efficient, cost-effective, and user-centred healthcare system. In addition, I examine how expert intelligence (clinical expertise, operational knowledge, and policy insight) can be combined with LLM capabilities to generate actionable, evidence-based recommendations for healthcare policy and system design.
 
-I work closely with supervisors and collaborators across academia and practice, and I enjoy building reproducible forecasting pipelines (R/Quarto/Git/Docker), delivering hands‑on training, and translating technical research into operational guidance for supply chain practitioners.
+I work closely with supervisors and collaborators across academia, industry, and clinical practice, and I enjoy engaging in interdisciplinary teamwork that bridges technical innovation with real-world healthcare challenges. This collaboration helps ensure that my research remains both scientifically rigorous and practically impactful.
 
 ## Education
 
-* **PhD**, Cardiff Business School — Machine Learning & Forecasting for Healthcare Supply Chains (ongoing)
-* **[Previous degree(s) — add details if you want]**
+* **PhD**, Cardiff Business School — LLMs & Online Health Operations Management (ongoing)
   
 ## Research focus / PhD project
   
-  My research focuses on addressing inefficiencies in supply chain management for contraceptive products in developing countries. These inefficiencies often lead to shortages, limiting women's reproductive autonomy and exacerbating societal challenges. By integrating probabilistic forecasting with inventory optimization, I aim to create a novel approach that accounts for uncertainties, poor data quality, and local demand variations. This interdisciplinary project involves collaboration with scholars from Cardiff Business School, the School of Computer Science & Informatics, and the United States Agency for International Development (USAID). The goal is to improve access to contraceptives, reduce unintended pregnancies, and prevent unsafe abortions, ultimately benefiting women, healthcare providers, governments, and donor organizations.
+My PhD explores how human expertise and LLMs can be combined to improve the quality and efficiency of online health services. I investigate how clinical expertise, operational knowledge, and policy insight can be systematically combined with advanced LLM capabilities to enhance decision support, streamline administrative processes, and improve patient–provider interactions. Rather than treating LLMs as a replacement for expert judgement, my work examines how the two can complement each other in tasks such as digital triage, remote consultations, and patient communication.
 
 ## Supervision team
 
@@ -25,15 +24,14 @@ I work closely with supervisors and collaborators across academia and practice, 
 
 Cardiff University - China Scholarship Committee (CSC)
 
-## Teaching & training
+## Teaching & roles
 
-* Graduate tutor (Cardiff).
-
+* Graduate tutor (Cardiff Business School).
+* Student Member, The Operational Research Society (The OR Society)
 
 ## Technical skills
 
-* **Languages & tooling:** R (tidyverse, tsibble, fable), Python (pandas, mlforecast), Quarto, Git/GitHub, Docker, LaTeX/TikZ
-* **Forecasting & ML:** State‑space models, Tobit/Kalman approaches, conformal prediction, LightGBM/XGBoost, probabilistic forecasting, hierarchical forecasting
+* **Languages & tooling:** R (tidyverse, tsibble, fable), Python (pandas, mlforecast), Quarto, Git/GitHub, LaTeX/TikZ
 * **Reproducibility & deployment:** renv, Quarto websites, GitHub Actions, containerised evaluation (CHAP)
 
 
