@@ -32,7 +32,7 @@ Cardiff University - China Scholarship Committee (CSC)
 ## Technical skills
 
 * **Languages & tooling:** R (tidyverse, tsibble, fable), Python (pandas, mlforecast), Quarto, Git/GitHub, LaTeX/TikZ
-* **Reproducibility & deployment:** renv, Quarto websites, GitHub Actions
+* **Reproducibility & deployment:** Quarto websites, GitHub Actions
 
 
 
