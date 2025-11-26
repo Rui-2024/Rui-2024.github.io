@@ -1,6 +1,6 @@
 ---
 title: "Rui Xu"
-subtitle: "Researcher"
+subtitle: "PhD Researcher"
 image: images/profile.png
 about:
   template: jolla  # Different templates: jolla, trestles, solana, marquee, or broadside
