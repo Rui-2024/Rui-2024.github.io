@@ -17,5 +17,5 @@ about:
       href: https://www.linkedin.com/in/rui-xu-1bb216275/
 ---
 
-Rui Xu is a second-year PhD student in operations management with a strong passion for data science and intelligent decision-making in business and healthcare. He has authored several papers in SCI/SSCI-indexed journals on these topics. Additionally, he serves as a reviewer for the International Journal of Health Policy and Management (SCI & SSCI Q1).
+Rui Xu is a second-year PhD student in health operations management with a strong passion for data science and intelligent decision-making in business and healthcare. He has authored several papers in SCI/SSCI-indexed journals on these topics. Additionally, he serves as a reviewer for the International Journal of Health Policy and Management (SCI & SSCI Q1).
 
