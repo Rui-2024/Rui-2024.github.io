@@ -7,7 +7,7 @@ about:
   image-shape: round
   links:
     - icon: envelope-at-fill  # https://icons.getbootstrap.com/?q=book
-      text: e-mail
+      text: E-Mail
       href: mailto:xur25@cardiff.ac.uk
     - icon: github
       text: Github
@@ -15,6 +15,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rui-xu-1bb216275/
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZ7AYcpqCEIrNyIXDntdFQ1qxYbE1Y1K3pWbrdjwPrJd3CawmCM9xYbRxouaUUTYmfNsCaOz57KaBB3ew&user=RWnFVjMAAAAJ
 ---
 
 Rui Xu is a second-year PhD student in health operations management whose research focuses on advancing online health services through the integration of large language models.
