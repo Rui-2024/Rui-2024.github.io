@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "talks/2025-1-euro/index.html",
-    "href": "talks/2025-1-euro/index.html",
-    "title": "First Post",
+    "objectID": "projects/sustainability/index.html",
+    "href": "projects/sustainability/index.html",
+    "title": "Sustainability",
     "section": "",
-    "text": "Slides"
+    "text": "No matching items"
   },
   {
-    "objectID": "talks/2025-2-publication/index.html",
-    "href": "talks/2025-2-publication/index.html",
-    "title": "First Post",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "Slides"
-  },
-  {
-    "objectID": "publications/book_chapters/index.html",
-    "href": "publications/book_chapters/index.html",
-    "title": "Book Chapters",
-    "section": "",
-    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/working_papers/index.html",
-    "href": "publications/working_papers/index.html",
-    "title": "Working Papers",
-    "section": "",
-    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Science\n\n\nMy data sceince projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\nMy sustainability projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting\n\n\nMy forecasting projects.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/index.html",
@@ -77,39 +63,11 @@
     "text": "Technical skills\n\nLanguages & tooling: R (tidyverse, tsibble, fable), Python (pandas, mlforecast), Quarto, Git/GitHub, LaTeX\nReproducibility & deployment: Quarto websites, GitHub Actions"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rui Xu",
+    "objectID": "talks/2025-1-euro/index.html",
+    "href": "talks/2025-1-euro/index.html",
+    "title": "First Post",
     "section": "",
-    "text": "Rui Xu is a second-year PhD student in health operations management whose research focuses on advancing online health services through the integration of large language models."
-  },
-  {
-    "objectID": "projects/forecasting/index.html",
-    "href": "projects/forecasting/index.html",
-    "title": "Time Series Forecasting",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Data Science\n\n\nMy data sceince projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainability\n\n\nMy sustainability projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Forecasting\n\n\nMy forecasting projects.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/data_science/index.html",
-    "href": "projects/data_science/index.html",
-    "title": "Data Science",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "projects/sustainability/index.html",
-    "href": "projects/sustainability/index.html",
-    "title": "Sustainability",
-    "section": "",
-    "text": "No matching items"
+    "text": "Slides"
   },
   {
     "objectID": "blog/index.html",
@@ -119,13 +77,6 @@
     "text": "No matching items"
   },
   {
-    "objectID": "publications/journal_articles/index.html",
-    "href": "publications/journal_articles/index.html",
-    "title": "Journal Articles",
-    "section": "",
-    "text": "Author/(s)\n\n\n\nTitle\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nRui Xu, Zhong Wang\n\n\nGenerative artificial intelligence in healthcare from the perspective of digital media: Applications, opportunities and challenges.\n\n\nLLMs, Healthcare, Digital Health\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications/technical_reports/index.html",
     "href": "publications/technical_reports/index.html",
     "title": "Technical Reports",
@@ -133,10 +84,59 @@
     "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "publications/book_chapters/index.html",
+    "href": "publications/book_chapters/index.html",
+    "title": "Book Chapters",
+    "section": "",
+    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/journal_articles/index.html",
+    "href": "publications/journal_articles/index.html",
+    "title": "Journal Articles",
+    "section": "",
+    "text": "Author/(s)\n\n\n\nTitle\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nRui Xu, Zhong Wang\n\n\nGenerative artificial intelligence in healthcare from the perspective of digital media: Applications, opportunities and challenges.\n\n\nLLMs, Healthcare, Digital Health\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/working_papers/index.html",
+    "href": "publications/working_papers/index.html",
+    "title": "Working Papers",
+    "section": "",
+    "text": "Title\n\n\n\nDescription\n\n\n\nKeywords\n\n\n\n\n\n\n\n\nHarsha Chamara Hewage, H. Niles Perera, Shari De Baets, Forecast adjustments during post-promotional periods, European Journal of Operational Research.\n\n\nWe study judgmental forecast adjustments in pre-promotional (normal), promotional and post-promotional periods via behavioral experiments. Forecasters need structured support to make effective adjustments during post-promotional periods. The…\n\n\nPython, Machine Learning, Data Cleaning\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rui Xu",
+    "section": "",
+    "text": "Rui Xu is a third(final)-year PhD student in health operations management whose research focuses on advancing health services through the integration of large language models and other AI methods."
+  },
+  {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
     "title": "",
     "section": "",
     "text": "First Post\n\n\nPost description for first post\n\n\n\n\n\nFeb 11, 2027\n\n\nRui\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\nPost description for first post\n\n\n\n\n\nNov 26, 2025\n\n\nRui\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/2025-2-publication/index.html",
+    "href": "talks/2025-2-publication/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "projects/forecasting/index.html",
+    "href": "projects/forecasting/index.html",
+    "title": "Time Series Forecasting",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/data_science/index.html",
+    "href": "projects/data_science/index.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "No matching items"
   }
 ]

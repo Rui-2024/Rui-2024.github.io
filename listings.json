@@ -1,14 +1,6 @@
 [
   {
-    "listing": "/publications/book_chapters/index.html",
-    "items": []
-  },
-  {
-    "listing": "/publications/working_papers/index.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/forecasting/index.html",
+    "listing": "/projects/sustainability/index.html",
     "items": []
   },
   {
@@ -20,15 +12,15 @@
     ]
   },
   {
-    "listing": "/projects/data_science/index.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/sustainability/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/technical_reports/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/book_chapters/index.html",
     "items": []
   },
   {
@@ -36,7 +28,7 @@
     "items": []
   },
   {
-    "listing": "/publications/technical_reports/index.html",
+    "listing": "/publications/working_papers/index.html",
     "items": []
   },
   {
@@ -45,5 +37,13 @@
       "/talks/2025-2-publication/index.html",
       "/talks/2025-1-euro/index.html"
     ]
+  },
+  {
+    "listing": "/projects/forecasting/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/data_science/index.html",
+    "items": []
   }
 ]
