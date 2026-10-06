@@ -20,5 +20,5 @@ about:
       href: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZ7AYcpqCEIrNyIXDntdFQ1qxYbE1Y1K3pWbrdjwPrJd3CawmCM9xYbRxouaUUTYmfNsCaOz57KaBB3ew&user=RWnFVjMAAAAJ
 ---
 
-Rui Xu is a second-year PhD student in health operations management whose research focuses on advancing online health services through the integration of large language models.
+Rui Xu is a third(final)-year PhD student in health operations management whose research focuses on advancing health services through the integration of large language models and other AI methods.
 
